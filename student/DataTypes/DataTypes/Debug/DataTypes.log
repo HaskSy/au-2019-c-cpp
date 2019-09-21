@@ -1,0 +1,6 @@
+﻿  main.c
+b:\с, с++\datatypes\datatypes\main.c(10): warning C4305: инициализация: усечение из "int" в "short"
+b:\с, с++\datatypes\datatypes\main.c(15): warning C4305: инициализация: усечение из "double" в "float"
+b:\с, с++\datatypes\datatypes\main.c(24): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "char [2]"
+b:\с, с++\datatypes\datatypes\main.c(25): warning C4047: инициализация: "unsigned char" отличается по уровням косвенного обращения от "char [2]"
+  DataTypes.vcxproj -> B:\С, С++\DataTypes\Debug\DataTypes.exe
